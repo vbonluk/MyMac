@@ -1,0 +1,12 @@
+
+OpenCore EFI教程
+https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI
+
+知乎:
+https://zhuanlan.zhihu.com/p/555048121
+
+国光:
+https://apple.sqlsec.com/4-OC配置/4-7.html
+
+白苹果序列号查询：
+https://checkcoverage.apple.com/cn/zh/
