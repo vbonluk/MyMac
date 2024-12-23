@@ -10,3 +10,6 @@ https://apple.sqlsec.com/4-OC配置/4-7.html
 
 白苹果序列号查询：
 https://checkcoverage.apple.com/cn/zh/
+
+双硬盘，单硬盘，Windows，Mac的Opencore引导：
+https://imacos.top/2020/04/06/1559/
