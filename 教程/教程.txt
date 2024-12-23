@@ -13,3 +13,6 @@ https://checkcoverage.apple.com/cn/zh/
 
 双硬盘，单硬盘，Windows，Mac的Opencore引导：
 https://imacos.top/2020/04/06/1559/
+
+wifi无法打开
+https://www.youtube.com/watch?v=Yn9Lv7ZjSZ4
